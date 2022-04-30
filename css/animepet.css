@@ -208,10 +208,12 @@ cursor:default;
 
 /*-------------------------------------*/
 /*Tablet size*/
-/*@media(min-width:410px){
-  
+@media(min-width:410px){
+/*.main-section img{
+  bottom:-84px;
 }
-*/
+}*/
+
 
 /*-------------------------------------*/
 /*Desktop size*/
@@ -269,7 +271,7 @@ cursor:default;
   padding:2rem 4rem;
 }
 .main-section img{
-  bottom:-82px;
+  bottom:-86px;
 }
 .main-section button{
   width:200px;
